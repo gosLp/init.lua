@@ -1,2 +1,2 @@
 require("gosLp.remap")
-print("Hello from gosLp")
+require("gosLp.set")

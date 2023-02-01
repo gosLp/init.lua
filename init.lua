@@ -1,2 +1,1 @@
 require("gosLp")
-print("Hello")
