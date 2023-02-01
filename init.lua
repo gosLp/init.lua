@@ -1,0 +1,2 @@
+require("gosLp")
+print("Hello")
